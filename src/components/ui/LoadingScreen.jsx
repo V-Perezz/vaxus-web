@@ -30,9 +30,13 @@ export default function LoadingScreen({ onComplete }) {
             <div className="w-7 h-7 rounded-lg" style={{ background:'linear-gradient(135deg,#1491d3,#034678)' }} />
           </motion.div>
           <div>
-            <div style={{ fontFamily:'Syne,sans-serif',fontWeight:800,fontSize:'2rem',letterSpacing:'.15em' }}>
-              VAX<span style={{ color:'#1491d3' }}>US</span>
-            </div>
+             <img
+          src="/icons/vaxus.png"
+          alt="vaxus"
+          width={120}
+          height={120}
+          className="relative -top-2"
+          />
             <div style={{ fontFamily:'JetBrains Mono,monospace',fontSize:'.65rem',color:'rgba(255,255,255,0.35)',letterSpacing:'.2em' }}>
               SOLUCIONES DIGITALES
             </div>
