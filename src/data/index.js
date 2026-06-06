@@ -8,7 +8,7 @@ export const services = [
 ];
 
 export const projects = [
-  { id:1, category:'web', status:'Activo', featured:true, name:'Natanel Gutiérrez — Plataforma Pastoral', description:'Plataforma web institucional con gestión de contenido, transmisiones en vivo y comunidad digital integrada.', tech:['React','Node.js','MongoDB','TailwindCSS'], color:'#1491d3', github:'#', demo:'#' },
+  { id:1, category:'web', status:'Activo', featured:true, name:'Natanel Gutiérrez — Plataforma Personal', description:'Plataforma web institucional con gestión de contenido, transmisiones en vivo y comunidad digital integrada.', tech:['React','Node.js','MongoDB','TailwindCSS'], color:'#1491d3', github:'#', demo:'#' },
   { id:2, category:'ia', status:'Activo', featured:false, name:'AutoBot — Asistente IA para PYMES', description:'Chatbot empresarial entrenado con datos propios del cliente para soporte automático 24/7.', tech:['Python','FastAPI','OpenAI API','React'], color:'#7c3aed', github:'#', demo:'#' },
   { id:3, category:'seguridad', status:'Completado', featured:false, name:'SecureAudit Dashboard', description:'Panel de control para auditorías de ciberseguridad con reportes automáticos y seguimiento de incidentes.', tech:['Python','React','PostgreSQL','Docker'], color:'#ef4444', github:'#', demo:'#' },
   { id:4, category:'automatizacion', status:'Activo', featured:false, name:'FlowMaster — Automatización n8n', description:'50+ workflows activos que redujeron el trabajo manual en un 70%.', tech:['n8n','Node.js','PostgreSQL','Docker'], color:'#f59e0b', github:'#', demo:'#' },
