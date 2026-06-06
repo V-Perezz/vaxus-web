@@ -135,8 +135,8 @@ export default function Hero() {
                   style={{background:'rgba(9,21,37,0.95)',border:'1px solid rgba(20,145,211,0.4)',boxShadow:'0 0 40px rgba(20,145,211,0.2)'}}>
                 {/* <div className="w-9 h-9 rounded-xl mb-1.5" style={{background:'linear-gradient(135deg,#1491d3,#034678)',boxShadow:'0 0 18px rgba(20,145,211,0.5)'}}/> */}
                    <img
-                   src="/public/icons/VAXUS.png"
-                   alt="VAXUS"
+                   src="/public/icons/vaxus.png"
+                   alt="vaxus"
                    width={90}
                    height={90}
                    className="relative -top-2"
