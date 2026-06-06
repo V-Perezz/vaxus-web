@@ -2,7 +2,7 @@ import { motion } from 'framer-motion';
 
 export default function FloatingCTA() {
   return (
-    <motion.a href="https://wa.me/18090000000?text=Hola,%20me%20interesa%20VAXUS"
+    <motion.a href="https://wa.me/18096787108?text=Hola,%20me%20interesa%20VAXUS"
       target="_blank" rel="noopener noreferrer"
       initial={{ scale:0 }} animate={{ scale:1 }} transition={{ delay:3,type:'spring' }}
       whileHover={{ scale:1.1 }} whileTap={{ scale:.95 }}
