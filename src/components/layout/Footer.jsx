@@ -8,11 +8,11 @@ export default function Footer() {
           <div>
             <div className="flex items-center gap-2.5 mb-4">
               <div className="w-8 h-8 rounded-lg flex items-center justify-center" style={{ background:'linear-gradient(135deg,#1491d3,#034678)' }}>
-                <img src="/public/icons/ISOTIPO.svg" alt="VAXUS" width={48} height={48} />
+                <img src="/public/icons/isotipo.svg" alt="vaxus" width={48} height={48} />
               </div>
                <img
-          src="/public/icons/VAXUS.png"
-          alt="VAXUS"
+          src="/public/icons/vaxus.png"
+          alt="vaxus"
           width={120}
           height={120}
           className="relative -top-2"

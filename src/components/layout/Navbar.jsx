@@ -35,11 +35,11 @@ export default function Navbar() {
           <button onClick={()=>go('inicio')} className="flex items-center gap-2.5 group">
             <div className="w-8 h-8 rounded-lg flex items-center justify-center transition-all group-hover:scale-110"
               style={{ background:'linear-gradient(135deg,#1491d3,#034678)',boxShadow:'0 0 15px rgba(20,145,211,0.4)' }}>
-             <img src="/public/icons/ISOTIPO.svg" alt="VAXUS" width={48} height={48} /> 
+             <img src="/public/icons/isotipo.svg" alt="vaxus" width={48} height={48} /> 
             </div>
            <img
-          src="/public/icons/VAXUS.png"
-          alt="VAXUS"
+          src="/public/icons/vaxus.png"
+          alt="vaxus"
           width={120}
           height={120}
           className="relative -top-2"
